@@ -33,8 +33,8 @@ Este é um sistema simples de gerenciamento de alunos, que permite realizar oper
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gerenciamento-alunos.git
-   cd gerenciamento-alunos
+   git clone https://github.com/Nadiadamasceno/projeto-cadastro-de-alunos.git
+   cd projeto-cadastro-de-alunos
    ```
 
 2. Crie e ative um ambiente virtual (opcional):
@@ -49,7 +49,7 @@ Este é um sistema simples de gerenciamento de alunos, que permite realizar oper
    ```
 
 4. Inicialize o banco de dados:
-   O script cria automaticamente a tabela `alunos` e popula o banco com dados iniciais ao rodar o aplicativo.
+   O script cria automaticamente a tabela `alunos.db` e popula o banco com dados iniciais ao rodar o aplicativo.
 
 5. Execute o servidor:
    ```bash
@@ -111,7 +111,7 @@ Se desejar contribuir com o projeto:
 
 1. Faça um fork do repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gerenciamento-alunos.git
+   git clone https://github.com/Nadiadamasceno/projeto-cadastro-de-alunos.git
    ```
 
 2. Crie uma branch com sua feature:
